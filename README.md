@@ -7,4 +7,4 @@
 
   1. Linear Regression
        1. House price prediction
-       2. Walmart sales forcasting
+       2. Salary prediction
