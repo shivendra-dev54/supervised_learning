@@ -12,3 +12,7 @@
   2. Logistic Regression
       1. Spam email prediction
       2. Telecom Churn Prediction
+  
+  3. Decision Trees
+      1. Loan approval prediction
+
