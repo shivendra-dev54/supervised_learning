@@ -15,4 +15,5 @@
   
   3. Decision Trees
       1. Loan approval prediction
+      2. Iris flower classification
 
