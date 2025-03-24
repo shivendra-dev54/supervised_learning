@@ -17,3 +17,6 @@
       1. Loan approval prediction
       2. Iris flower classification
 
+  4. Random Forest
+      1. Credit card fraud prediction
+      2. Employee attrition prediction
